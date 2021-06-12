@@ -6,7 +6,7 @@ merge images from kinkoi (steam version)
 2. convert webp files to png.
 3. put all images and vcglist.csv in to one folder.(hevcg,evcg,diff)
 4. merge png files using merge.py.
-   python merge.py
+   (python merge.py)
 5. have fun!
 
 # Required
