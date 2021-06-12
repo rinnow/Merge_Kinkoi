@@ -10,6 +10,6 @@ merge images from kinkoi (steam version)
 5. have fun!
 
 # Required
-Python3
-ImageMagick
+Python3<br>
+ImageMagick<br>
 tool to extract dat files.
